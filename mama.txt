@@ -9,4 +9,8 @@ vmstat
 iostat
 tail
 head
-
+grep
+vi
+df -sh
+df -u
+diugcikub
