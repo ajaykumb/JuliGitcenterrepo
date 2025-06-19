@@ -1,0 +1,12 @@
+ls
+ls -la
+cat
+touch
+top
+dress
+sar
+vmstat
+iostat
+tail
+head
+
